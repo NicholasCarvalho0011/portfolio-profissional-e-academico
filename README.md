@@ -14,3 +14,12 @@ Você pode acessar a versão visual completa do meu portfólio através do link 
 ## 🛠️ Tecnologias Utilizadas
 * Git & GitHub (Versionamento de código)
 * Google Sites (Construção do site visual)
+
+## 🛡️ Políticas de Segurança e Implantação
+* **Proteção de Branch:** A ramificação principal (`master`) foi devidamente protegida contra alterações diretas e exclusões acidentais utilizando as *Branch Protection Rules* do GitHub.
+* **Governança de Código:** Qualquer modificação ou inclusão de novos arquivos agora exige obrigatoriamente a abertura e aprovação de um *Pull Request*, garantindo a integridade do ambiente de produção.
+* **Suporte de IA:** O planejamento de conformidade, segurança de dados e a arquitetura geral da implantação foram validados com o auxílio consultivo da IA Google GEMINI.
+
+
+
+
